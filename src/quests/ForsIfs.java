@@ -5,8 +5,8 @@ public class ForsIfs {
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
         for (int i=0;i<=input;i++) {
-            if ((Math.pow(2,i))%4!=0 ) {
-                System.out.println("4 배수 아님");
+            if ((Math.pow(2,i))%8!=0 ) {
+                System.out.println("8 배수 아님");
             } else {
                 int result = (int) Math.pow(2,i);
                 System.out.println((result));

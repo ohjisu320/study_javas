@@ -8,12 +8,13 @@
 |[Scanners.java](src/Scanners.java)|src/Scanners.java|Scanners import and use|
 |[Booleans.java](src/Booleans.java)|src/Booleans.java|Boolean types(true, false, !()), &&|
 |[Ifs.java](src/Ifs.java)|src/Ifs.java|if elseif else basic code, &&|
+|[Loops_Fors.java](src/Loops_Fors.java)|src/Loops_Fors.java|for basic codes|
 ## Quest 
 
 |name|path|details|
 |--|--|--|
 |[Additons.java](src/quests/Additons.java)|src/quests/Additons.java|Scanners import and use|
-
+|[ForsIfs.java](src/quests/ForsIfs.java)|src/quests/ForsIfs.java|Fors with Ifs, Math.pow(A,n)==pytyon(A**n)|
 
 
 
