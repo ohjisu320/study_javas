@@ -1,6 +1,6 @@
 package quests;
 import java.util.Scanner;
-public class WhilesIfs {
+public class WhilesIfsBreak {
     public static void main(String[] agrs){
         Scanner scanner = new Scanner(System.in);
         while (true) {
