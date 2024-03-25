@@ -8,6 +8,7 @@ public class PollsWithoutDB {
         ArrayList<String> questionList = new ArrayList<String>();
         questionList.add("인터스텔라 선호도");
         questionList.add("해리포터 선호도");
+        questionList.add("코코 선호도");
         ArrayList<String> answerList = new ArrayList<String>();
         answerList.add("좋음");
         answerList.add("중간");
