@@ -8,8 +8,12 @@
 |[Scanners.java](src/Scanners.java)|src/Scanners.java|Scanners import and use|
 |[Booleans.java](src/Booleans.java)|src/Booleans.java|Boolean types(true, false, !()), &&|
 |[Ifs.java](src/Ifs.java)|src/Ifs.java|if elseif else basic code, &&|
-|[LoopsFors.java](src/LoopsFors.java)|src/LoopsFors.java|for basic codes|
+|[LoopsFors.java](src/LoopsFors.java)|src/LoopsFors.java|(for/for each) basic codes with casting|
 |[LoopsWhiles.java](src/LoopsWhiles.java)|src/LoopsWhiles.java|while basic codes(condition & break;)|
+|[DataTypesStrings.java](src/DataTypesStrings.java)|src/DataTypesStrings.java|String Class study|
+|[DataTypesArrayList.java](src/DataTypesArrayList.java)|src/DataTypesArrayList.java|ArrayList - get, size, remove|
+
+
 ## Quest 
 
 |name|path|details|
