@@ -8,7 +8,8 @@ public class ForsIfs {
             if ((Math.pow(2,i))%4!=0 ) {
                 System.out.println("4 배수 아님");
             } else {
-                System.out.println((Math.pow(2,i)));
+                int result = (int) Math.pow(2,i);
+                System.out.println((result));
             }
         }
         scanner.close();
