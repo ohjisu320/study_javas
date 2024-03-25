@@ -21,6 +21,7 @@
 |[Additons.java](src/quests/Additons.java)|src/quests/Additons.java|Scanners import and use|
 |[ForsIfs.java](src/quests/ForsIfs.java)|src/quests/ForsIfs.java|Fors with Ifs, Math.pow(A,n)==pytyon(A**n)|
 |[WhilesIfs.java](src/quests/WhilesIfs.java)|src/quests/WhilesIfs.java|Whiles with Ifs(break), calculate grade from score|
+|[Poll.java](src/quests/WhilesIfs.java)|src/quests/WhilesIfs.java|Whiles with Ifs(break), calculate grade from score|
 
 
 

@@ -2,7 +2,7 @@
 package quests;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class pollsWithoutDB {
+public class PollsWithoutDB {
     public static void main(String[] agrs){
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> questionList = new ArrayList<String>();
