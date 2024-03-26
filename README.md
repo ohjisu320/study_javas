@@ -11,8 +11,9 @@
 |[LoopsFors.java](src/LoopsFors.java)|(for/for each) basic codes with casting|
 |[LoopsWhiles.java](src/LoopsWhiles.java)|while basic codes(condition & break;)|
 |[DataTypesStrings.java](src/DataTypesStrings.java)|String Class study|
-|[DataTypesArrayList.java](src/DataTypesArrayList.java)|ArrayList - get, size, remove|
-[text](https://camo.githubusercontent.com/410d86e43f847d3f6e3027fa6f0c2fb7641d893fa601d863a943eac968c41890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+|[DataTypesArrayList.java](src/DataTypesArrayList.java)|ArrayList - add, get, size, remove|
+|[DatatypeHashMaps.java](src/DatatypeHashMaps.java)|HashMaps - put, get, size, remove, keySet(), values()|
+
 
 ## 📚 Quest 
 
