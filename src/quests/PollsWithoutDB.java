@@ -36,7 +36,7 @@ public class PollsWithoutDB {
             System.out.print(", ");
         }
             
-
+        scanner.close();
         
         
 
